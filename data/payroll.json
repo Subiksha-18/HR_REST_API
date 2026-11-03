@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "employee_id": 1,
+        "employee_name": "Arun Kumar",
+        "month": "October",
+        "year": 2026,
+        "basic_salary": 25000,
+        "allowance": 8000,
+        "bonus": 2000,
+        "deduction": 1500,
+        "gross_salary": 35000,
+        "net_salary": 33500,
+        "payment_status": "Paid"
+    },
+    {
+        "id": 2,
+        "employee_id": 2,
+        "employee_name": "Priya Sharma",
+        "month": "October",
+        "year": 2026,
+        "basic_salary": 22000,
+        "allowance": 6000,
+        "bonus": 1000,
+        "deduction": 1000,
+        "gross_salary": 29000,
+        "net_salary": 28000,
+        "payment_status": "Paid"
+    },
+    {
+        "id": 3,
+        "employee_id": 3,
+        "employee_name": "Rahul Kumar",
+        "month": "October",
+        "year": 2026,
+        "basic_salary": 24000,
+        "allowance": 6000,
+        "bonus": 1500,
+        "deduction": 2000,
+        "gross_salary": 31500,
+        "net_salary": 29500,
+        "payment_status": "Pending"
+    }
+]

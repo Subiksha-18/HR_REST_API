@@ -1,0 +1,35 @@
+[
+    {
+        "id": 1,
+        "name": "Karthik",
+        "email": "karthik@gmail.com",
+        "phone": "9876543213",
+        "position": "Python Developer",
+        "experience": 1,
+        "qualification": "MSc Computer Science",
+        "interview_status": "Selected",
+        "application_date": "2026-10-20"
+    },
+    {
+        "id": 2,
+        "name": "Divya",
+        "email": "divya@gmail.com",
+        "phone": "9876543214",
+        "position": "HR Executive",
+        "experience": 0,
+        "qualification": "MBA",
+        "interview_status": "Interview Scheduled",
+        "application_date": "2026-10-22"
+    },
+    {
+        "id": 3,
+        "name": "Suresh",
+        "email": "suresh@gmail.com",
+        "phone": "9876543215",
+        "position": "Data Analyst",
+        "experience": 2,
+        "qualification": "MSc Data Science",
+        "interview_status": "Rejected",
+        "application_date": "2026-10-25"
+    }
+]

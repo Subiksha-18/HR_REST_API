@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "Arun Kumar",
+        "age": 24,
+        "email": "arun@gmail.com",
+        "phone": "9876543210",
+        "department": "IT",
+        "designation": "Python Developer",
+        "salary": 35000,
+        "joining_date": "2026-01-10",
+        "status": "Active"
+    },
+    {
+        "id": 2,
+        "name": "Priya Sharma",
+        "age": 25,
+        "email": "priya@gmail.com",
+        "phone": "9876543211",
+        "department": "HR",
+        "designation": "HR Executive",
+        "salary": 30000,
+        "joining_date": "2026-02-15",
+        "status": "Active"
+    },
+    {
+        "id": 3,
+        "name": "Rahul Kumar",
+        "age": 26,
+        "email": "rahul@gmail.com",
+        "phone": "9876543212",
+        "department": "Finance",
+        "designation": "Accountant",
+        "salary": 32000,
+        "joining_date": "2026-03-01",
+        "status": "Active"
+    },
+    {
+        "name": "Subiksha K",
+        "age": 23,
+        "email": "subiksha@gmail.com",
+        "phone": "9876543210",
+        "department": "IT",
+        "designation": "Python Developer",
+        "salary": 35000,
+        "joining_date": "2026-11-03",
+        "status": "Active",
+        "id": 4
+    },
+    {
+        "name": "Priya",
+        "age": 24,
+        "email": "priya.unique2026@gmail.com",
+        "phone": "9876543211",
+        "department": "IT",
+        "designation": "Software Developer",
+        "salary": 35000,
+        "joining_date": "2026-11-03",
+        "status": "Active",
+        "id": 5
+    }
+]

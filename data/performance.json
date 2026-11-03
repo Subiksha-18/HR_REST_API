@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "employee_id": 1,
+        "employee_name": "Arun Kumar",
+        "review_period": "October 2026",
+        "rating": 4.5,
+        "feedback": "Excellent technical skills and teamwork",
+        "reviewed_by": "HR Manager"
+    },
+    {
+        "id": 2,
+        "employee_id": 2,
+        "employee_name": "Priya Sharma",
+        "review_period": "October 2026",
+        "rating": 4.0,
+        "feedback": "Good communication and employee coordination",
+        "reviewed_by": "HR Manager"
+    },
+    {
+        "id": 3,
+        "employee_id": 3,
+        "employee_name": "Rahul Kumar",
+        "review_period": "October 2026",
+        "rating": 3.5,
+        "feedback": "Good performance with improvement needed in reporting",
+        "reviewed_by": "Finance Manager"
+    }
+]

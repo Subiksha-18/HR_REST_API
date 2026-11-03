@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "employee_id": 1,
+        "employee_name": "Arun Kumar",
+        "date": "2026-11-02",
+        "check_in": "09:00:00",
+        "check_out": "18:00:00",
+        "working_hours": 9,
+        "status": "Present"
+    },
+    {
+        "id": 2,
+        "employee_id": 2,
+        "employee_name": "Priya Sharma",
+        "date": "2026-11-02",
+        "check_in": "09:30:00",
+        "check_out": "18:00:00",
+        "working_hours": 8.5,
+        "status": "Present"
+    },
+    {
+        "id": 3,
+        "employee_id": 3,
+        "employee_name": "Rahul Kumar",
+        "date": "2026-11-02",
+        "check_in": null,
+        "check_out": null,
+        "working_hours": 0,
+        "status": "Absent"
+    }
+]

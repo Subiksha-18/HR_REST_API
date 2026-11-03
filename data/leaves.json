@@ -1,0 +1,35 @@
+[
+    {
+        "id": 1,
+        "employee_id": 1,
+        "employee_name": "Arun Kumar",
+        "leave_type": "Sick Leave",
+        "from_date": "2026-11-05",
+        "to_date": "2026-11-06",
+        "total_days": 2,
+        "reason": "Medical appointment",
+        "status": "Pending"
+    },
+    {
+        "id": 2,
+        "employee_id": 2,
+        "employee_name": "Priya Sharma",
+        "leave_type": "Casual Leave",
+        "from_date": "2026-11-10",
+        "to_date": "2026-11-10",
+        "total_days": 1,
+        "reason": "Personal work",
+        "status": "Approved"
+    },
+    {
+        "id": 3,
+        "employee_id": 3,
+        "employee_name": "Rahul Kumar",
+        "leave_type": "Earned Leave",
+        "from_date": "2026-11-15",
+        "to_date": "2026-11-17",
+        "total_days": 3,
+        "reason": "Family function",
+        "status": "Rejected"
+    }
+]
