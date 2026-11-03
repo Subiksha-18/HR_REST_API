@@ -8,7 +8,7 @@
         "to_date": "2026-11-06",
         "total_days": 2,
         "reason": "Medical appointment",
-        "status": "Pending"
+        "status": "Rejected"
     },
     {
         "id": 2,
@@ -31,5 +31,29 @@
         "total_days": 3,
         "reason": "Family function",
         "status": "Rejected"
+    },
+    {
+        "employee_id": 1,
+        "employee_name": "Arun Kumar",
+        "leave_type": "Casual Leave",
+        "from_date": "2026-11-10",
+        "to_date": "2026-11-11",
+        "total_days": 2,
+        "reason": "Personal work",
+        "status": "Approved",
+        "applied_on": "2026-11-03",
+        "id": 4
+    },
+    {
+        "employee_id": 1,
+        "employee_name": "Arun Kumar",
+        "leave_type": "Earned Leave",
+        "from_date": "2026-11-20",
+        "to_date": "2026-11-21",
+        "total_days": 2,
+        "reason": "Family function",
+        "status": "Cancelled",
+        "applied_on": "2026-11-03",
+        "id": 5
     }
 ]
